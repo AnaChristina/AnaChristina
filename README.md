@@ -13,8 +13,10 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right"  height="100" alt="GIF" src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=790b761115177bc304914fb8c2e46269393afb2cdbd33c3c&rid=giphy.gif&ct=g">
+  <img align="center"  height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
+  <img align="right"  height="100" alt=gif_dino" src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=790b761115177bc304914fb8c2e46269393afb2cdbd33c3c&rid=giphy.gif&ct=g">
 <!--  Adicionar Angular e talvez Ionic    -->
 </div> 
   
