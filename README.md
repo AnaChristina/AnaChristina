@@ -1,6 +1,6 @@
 ### Oláaa! Eu sou a Ana 👋
 
-- 🌱 Atualmente estudando front-end!
+- Estudante Análise e Desenvolvimento de Sistemas! <3!
 
  <div>
   <a href="https://github.com/AnaChristina">
