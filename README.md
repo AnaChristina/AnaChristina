@@ -1,6 +1,6 @@
 ### Oláaa! Eu sou a Ana 👋
 
-- Estudante Análise e Desenvolvimento de Sistemas! <3!
+- Estudando Análise e Desenvolvimento de Sistemas! <3!
 
  <div>
   <a href="https://github.com/AnaChristina">
