@@ -1,8 +1,10 @@
 ### Oláaa! Eu sou a Ana 👋
 
-- Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec de SJC!📚❤  <br>
+- Atualmente estou cursando último semestre em Análise e Desenvolvimento de Sistemas na Fatec de SJC!📚❤  <br>
 Meu foco é desenvolvimento front-end. 
 Fique avontade para ver alguns projetos 😉
+
+Aceita um palpite? Que tal dar uma espiadinha no meu [portfólio acadêmico](https://github.com/AnaChristina/Portfolio-Fatec)?
 
  <div>
   <a href="https://github.com/AnaChristina">
