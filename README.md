@@ -1,10 +1,13 @@
 ### Oláaa! Eu sou a Ana 👋
 
-- Formada em Análise e Desenvolvimento de Sistemas na Fatec de SJC!📚❤  <br>
-Meu foco é desenvolvimento front-end. 
-Fique avontade para ver alguns projetos 😉
+- Formada em Análise e Desenvolvimento de Sistemas pela Fatec de São José dos Campos 📚
+- Foco em desenvolvimento front-end, com experiência em criação de interfaces web e mobile
+- Interesse em construir aplicações funcionais com boa experiência do usuário e integração com APIs
 
-Aceita um palpite? Que tal dar uma espiadinha no meu [portfólio acadêmico](https://github.com/AnaChristina/Portfolio-Fatec)?
+Sinta-se à vontade para explorar meus projetos 😉
+
+👉 Veja também meu portfólio:  
+[Portfólio](https://github.com/AnaChristina/portfolio)
 
  <div>
   <a href="https://github.com/AnaChristina">
