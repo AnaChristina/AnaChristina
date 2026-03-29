@@ -8,7 +8,6 @@ Sinta-se à vontade para explorar meus projetos 😉
 
 👉 Veja também meu portfólio:  
 [Portfólio](https://github.com/AnaChristina/portfolio)
-
  <div>
   <a href="https://github.com/AnaChristina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaChristina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
